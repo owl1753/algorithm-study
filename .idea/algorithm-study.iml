@@ -19,9 +19,12 @@
       <sourceFolder url="file://$MODULE_DIR$/p10872/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/p10950/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/p2741/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/p10951/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/p10952/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/p15552/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/p2438/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/p2739/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/p10871/src" isTestSource="false" />
       <excludeFolder url="file://$MODULE_DIR$/target" />
     </content>
     <orderEntry type="inheritedJdk" />
