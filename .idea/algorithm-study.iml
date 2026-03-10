@@ -45,6 +45,9 @@
       <sourceFolder url="file://$MODULE_DIR$/p2884/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/p31403/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/p2675/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/p10818/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/p2577/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/p2920/src" isTestSource="false" />
       <excludeFolder url="file://$MODULE_DIR$/target" />
     </content>
     <orderEntry type="inheritedJdk" />
