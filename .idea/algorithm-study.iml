@@ -52,6 +52,7 @@
       <sourceFolder url="file://$MODULE_DIR$/p10809/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/p3052/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/p8958/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/p30802/src" isTestSource="false" />
       <excludeFolder url="file://$MODULE_DIR$/target" />
     </content>
     <orderEntry type="inheritedJdk" />
