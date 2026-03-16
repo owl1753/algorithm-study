@@ -57,8 +57,12 @@
       <sourceFolder url="file://$MODULE_DIR$/p2231/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/p2292/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/p1259/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/p1546/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/p15829/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/p2609/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/p2798/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/p2775/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/p2869/src" isTestSource="false" />
       <excludeFolder url="file://$MODULE_DIR$/target" />
     </content>
     <orderEntry type="inheritedJdk" />
