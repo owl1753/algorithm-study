@@ -77,6 +77,7 @@
       <sourceFolder url="file://$MODULE_DIR$/p11651/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/p1920/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/p2164/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/p4153/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/p2839/src" isTestSource="false" />
       <excludeFolder url="file://$MODULE_DIR$/target" />
     </content>
