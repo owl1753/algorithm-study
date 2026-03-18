@@ -90,6 +90,7 @@
       <sourceFolder url="file://$MODULE_DIR$/p1874/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/p1929/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/p1966/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/p2108/src" isTestSource="false" />
       <excludeFolder url="file://$MODULE_DIR$/target" />
     </content>
     <orderEntry type="inheritedJdk" />
